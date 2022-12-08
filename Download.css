@@ -1,0 +1,170 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 636px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 29px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  font-style: italic;
+  margin: 0 auto;
+}
+
+.u-section-1 .u-group-elements-1 {
+  width: 195px;
+  min-height: 228px;
+  transition-duration: 0.5s;
+  box-shadow: 2px 0 0 0 rgba(0,0,0,0);
+  height: auto;
+  transform: translateX(0px) translateY(0px) scale(1) rotate(0deg);
+  margin: 71px auto 0 473px;
+}
+
+.u-section-1 .u-icon-1 {
+  width: 161px;
+  height: 161px;
+  margin: 0 17px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-3 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 0.8;
+  margin: 11px 0 0;
+}
+
+.u-section-1 .u-icon-2 {
+  width: 145px;
+  height: 145px;
+  margin: -212px auto 0 242px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-4 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  line-height: 0.8;
+  margin: 11px 730px 0 218px;
+}
+
+.u-section-1 .u-text-5 {
+  font-weight: 400;
+  font-size: 0.625rem;
+  font-style: italic;
+  margin: 4px auto 0 230px;
+}
+
+.u-section-1 .u-btn-1 {
+  border-style: none;
+  font-weight: 700;
+  font-size: 0.875rem;
+  letter-spacing: 0px;
+  text-transform: uppercase;
+  margin: -15px auto 60px 518px;
+  padding: 0;
+}
+
+.u-section-1 .u-text-6 {
+  font-weight: 400;
+  font-size: 1.125rem;
+  margin: 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-4 {
+    margin-right: 630px;
+    margin-left: 118px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 318px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-icon-2 {
+    margin-left: 185px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 520px;
+    margin-left: 8px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 98px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-group-elements-1 {
+    margin-left: 345px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 139px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 348px;
+    margin-left: 0;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 173px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-group-elements-1 {
+    margin-left: 145px;
+  }
+
+  .u-section-1 .u-icon-2 {
+    margin-left: 88px;
+  }
+
+  .u-section-1 .u-text-4 {
+    margin-right: 148px;
+  }
+
+  .u-section-1 .u-text-5 {
+    margin-left: 109px;
+  }
+}
+
+.u-section-1 .u-group-elements-1,
+.u-section-1 .u-group-elements-1:before,
+.u-section-1 .u-group-elements-1 > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-section-1 .u-container-layout:hover .u-group-elements-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-section-1 .u-group-elements-1 {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-block-08bf-10:not([data-block-selected]):not([data-cell-selected]),
+.u-block-08bf-10:not([data-block-selected]):not([data-cell-selected]):before,
+.u-block-08bf-10:not([data-block-selected]):not([data-cell-selected]) > .u-container-layout:before {
+  transition-property: fill, color, background-color, stroke-width, border-style, border-width, border-top-width, border-left-width, border-right-width, border-bottom-width, custom-border, borders, box-shadow, text-shadow, opacity, border-radius, stroke, border-color, font-size, font-style, font-weight, text-decoration, letter-spacing, transform, background-image, image-zoom, background-size, background-position;
+}
+
+.u-container-layout:hover .u-block-08bf-10:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
+
+.u-container-layout.hover .u-block-08bf-10:not([data-block-selected]):not([data-cell-selected]) {
+  transform: rotate(0deg) scale(1) translateX(0px) translateY(0px) !important;
+}
